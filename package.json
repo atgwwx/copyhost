@@ -1,0 +1,9 @@
+{
+    "name": "copyhost",
+    "version": "1.0.0",
+    "description":"get your computer host",
+    "preferGlobal":"true",
+    "bin":{"cphost": "index.js"},
+    "author":"atgwwx",
+    "engines":{"node":"*"}
+}
